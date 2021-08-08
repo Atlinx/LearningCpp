@@ -22,8 +22,8 @@ Inspect your code
 
 Find problems by running your program
 
-Find a way to consitently reproduce the problem
+Find a way to consistently reproduce the problem
 
 Home in on issues
 - Like the game "hi-lo", where a friend tries to guess a number in your head and you respond with either too high, too low, or just right.
-- For example, we can eliminate the thought of an issue occuring before a certain point if the code up to that point gives the expected result.
+- For example, we can eliminate the thought of an issue occurring before a certain point if the code up to that point gives the expected result.
