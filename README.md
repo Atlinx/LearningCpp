@@ -6,13 +6,13 @@ I'm following along with the [Learn C++](https://www.learncpp.com/) website and 
 
 ## Useful VSCode Keyboard Shortcuts
 
-| Behaviour                               | Shortcut                                                             |
-| --------------------------------------- | -------------------------------------------------------------------- |
-| Switch between terminal and code editor | <kbd>Ctrl</kbd> + <kbd>`</kbd>                                       |
-| Compile and run active file             | <kbd>Ctrl</kbd> + <kbd>P</kbd> -> "Build and Debug Active File"      |
-| Jumping to previous position            | <kbd>Alt</kbd> + <kbd>←</kbd>                                        |
-| Jumping to next position                | <kbd>Alt</kbd> + <kbd>→</kbd>                                        |
-| Create new file in current directory    | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Windows</kbd> + <kbd>N</kbd> |
+| Behaviour                               | Shortcut                                                                           |
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+| Switch between terminal and code editor | <kbd>Ctrl</kbd> + <kbd>`</kbd>                                                     |
+| Compile and run active file             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> -> "Build and Debug Active File" |
+| Jumping to previous position            | <kbd>Alt</kbd> + <kbd>←</kbd>                                                      |
+| Jumping to next position                | <kbd>Alt</kbd> + <kbd>→</kbd>                                                      |
+| Create new file in current directory    | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Windows</kbd> + <kbd>N</kbd>               |
 
 ## Some Useful Links:
 
